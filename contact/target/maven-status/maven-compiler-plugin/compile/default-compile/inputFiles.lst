@@ -1,0 +1,17 @@
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ContactDbDAO.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\business\ContactManager.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\gui\EditContactDialog.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ContactDAOFactory.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\gui\ContactModel.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ContactSimpleDAO.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\config\GlobalConfig.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ContactDAO.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ConnectionBuilderFactory.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\gui\ContactFrame.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\SimpleConnectionBuilder.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\entity\Contact.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\test\ContactTest.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\exception\ContactBusinessException.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\dao\ConnectionBuilder.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\exception\ContactDaoException.java
+E:\__PROJECT__\JAVA\Java_maven\contact\src\main\java\edu\javacourse\contact\gui\GuiResource.java

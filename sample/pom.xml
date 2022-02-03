@@ -4,8 +4,8 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>edu.javacourse</groupId>
-  <artifactId>sample</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>SAMPLE</artifactId>
+  <version>2.3</version>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>

@@ -1,0 +1,17 @@
+edu\javacourse\contact\gui\ContactModel.class
+edu\javacourse\contact\dao\ContactDbDAO.class
+edu\javacourse\contact\dao\ConnectionBuilder.class
+edu\javacourse\contact\entity\Contact.class
+edu\javacourse\contact\test\ContactTest.class
+edu\javacourse\contact\exception\ContactDaoException.class
+edu\javacourse\contact\dao\ContactSimpleDAO.class
+edu\javacourse\contact\gui\EditContactDialog.class
+edu\javacourse\contact\gui\GuiResource.class
+edu\javacourse\contact\dao\ContactDAOFactory.class
+edu\javacourse\contact\dao\SimpleConnectionBuilder.class
+edu\javacourse\contact\gui\ContactFrame.class
+edu\javacourse\contact\dao\ContactDAO.class
+edu\javacourse\contact\exception\ContactBusinessException.class
+edu\javacourse\contact\business\ContactManager.class
+edu\javacourse\contact\config\GlobalConfig.class
+edu\javacourse\contact\dao\ConnectionBuilderFactory.class
